@@ -1,0 +1,4 @@
+Components are the building blocks of a react application that
+represent a part of the user interface.
+
+Types of Components : Stateless Function vs stateful class
